@@ -11,6 +11,7 @@
 * БЭМ
 * и многое другое...
 
-
+<footer>
+  Copyright <a href="https://github.com/1998max7362">© Nobody, 2023</a>
 
 
