@@ -13,6 +13,6 @@
 
 <footer>
   Copyright <a href="https://github.com/1998max7362">© Nobody</a>, 2023
-  При содействии <a href="https://practicum.yandex.ru/profile/web/>Yandex-practicum</a>
+  При содействии <a href="https://practicum.yandex.ru/profile/web/">Yandex-practicum</a>
 
 
